@@ -1,0 +1,16 @@
+.parentContainer {
+    background-color: #23272f;
+    height: 8%; 
+  }
+  
+  .categoryIconStyling {
+    flex: 1 !important;
+  }
+  
+  .searchButton {
+    border-radius: 0 !important;
+  }
+
+  /* #dee2e6 */
+  /* #1B1F22 */
+
