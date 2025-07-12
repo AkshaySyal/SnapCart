@@ -1,8 +1,9 @@
-# FlowerShower
+# SnapCart
 ```md
 # FullStack E-commerce Application
 
-This is a FullStack E-commerce application built using **React**, **Redux**, **Node.js**, **Express**, and **MongoDB**. The project includes a fully functional frontend and backend, with features like product browsing, cart management, user authentication, and more.
+This is a full-stack E-commerce platform developed with **React**, **Redux**, **Node.js**, **Express**, and **MongoDB**. It offers a complete frontend and backend setup, featuring product listings, shopping cart functionality, user authentication, and additional features.
+
 
 ---
 
